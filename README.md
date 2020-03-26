@@ -17,13 +17,15 @@ Permite que ONGs cadastrem e postem seus casos, para que outros usuários, que e
 
 ## Iniciar
 
-### Hablitar backend
+### Habilitar backend
 
 Para iniciar o backend, execute os comandos abaixo na pasta _backend_
 ```
 npm install
 npm start
 ```
+
+### Habilitar o frontend
 Para iniciar o frontend, execute os comandos abaixo na pasta _frontend_
 ```
 npm install
